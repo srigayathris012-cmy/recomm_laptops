@@ -1,6 +1,11 @@
-Model,Usage,RAM,Storage,ASIN,Image,Amazon,Flipkart
-HP Pavilion 15,Programming,16GB,512GB SSD,B09F3QZK3L,https://m.media-amazon.com/images/I/71TPda7cwUL._SX679_.jpg,https://www.amazon.in/,https://www.flipkart.com/
-Dell Inspiron 14,Office,8GB,512GB SSD,B0B6F6K5N6,https://m.media-amazon.com/images/I/61fDHk4K0BL._SX679_.jpg,https://www.amazon.in/,https://www.flipkart.com/
-Lenovo IdeaPad Slim 3,Student,8GB,512GB SSD,B0B7RXC7KH,https://m.media-amazon.com/images/I/61Dw5Z8LzJL._SX679_.jpg,https://www.amazon.in/,https://www.flipkart.com/
-ASUS VivoBook 15,Design,16GB,1TB SSD,B0B5H8N7R5,https://m.media-amazon.com/images/I/71WuDXpTAlL._SX679_.jpg,https://www.amazon.in/,https://www.flipkart.com/
-Acer Aspire 7,Gaming,16GB,512GB SSD,B09WZJ4N2S,https://m.media-amazon.com/images/I/71czGb00k5L._SX679_.jpg,https://www.amazon.in/,https://www.flipkart.com/
+Model,Usage,Price,RAM,Storage,Image,Amazon,Flipkart
+HP Pavilion 15,Programming,65000,16GB,512GB SSD,https://m.media-amazon.com/images/I/71TPda7cwUL._SX679_.jpg,https://www.amazon.in/dp/B0B4N77Y34,https://www.flipkart.com/
+Dell Inspiron 14,Office,62000,8GB,512GB SSD,https://m.media-amazon.com/images/I/61fDHk4K0BL._SX679_.jpg,https://www.amazon.in/dp/B09F3QZK3L,https://www.flipkart.com/
+Lenovo IdeaPad Slim 3,Student,48000,8GB,512GB SSD,https://m.media-amazon.com/images/I/61Dw5Z8LzJL._SX679_.jpg,https://www.amazon.in/dp/B0C5N2SM8J,https://www.flipkart.com/
+ASUS VivoBook 15,Design,54000,16GB,1TB SSD,https://m.media-amazon.com/images/I/71WuDXpTAlL._SX679_.jpg,https://www.amazon.in/dp/B09TPK9NFK,https://www.flipkart.com/
+Acer Aspire 7,Gaming,72000,16GB,512GB SSD,https://m.media-amazon.com/images/I/71czGb00k5L._SX679_.jpg,https://www.amazon.in/dp/B0B3J9R6GS,https://www.flipkart.com/
+HP Victus,Gaming,78000,16GB,512GB SSD,https://m.media-amazon.com/images/I/71R2nJcY2CL._SX679_.jpg,https://www.amazon.in/dp/B0C2DXG1L4,https://www.flipkart.com/
+Dell G15,Gaming,82000,16GB,1TB SSD,https://m.media-amazon.com/images/I/61Qe0euJJZL._SX679_.jpg,https://www.amazon.in/dp/B09XXTRJ5P,https://www.flipkart.com/
+Lenovo ThinkPad E14,Office,69000,16GB,512GB SSD,https://m.media-amazon.com/images/I/61Y30DpqRVL._SX679_.jpg,https://www.amazon.in/dp/B0B7RXC5V9,https://www.flipkart.com/
+ASUS TUF F15,Gaming,85000,16GB,1TB SSD,https://m.media-amazon.com/images/I/71p2xZ1JrUL._SX679_.jpg,https://www.amazon.in/dp/B0C5TBRP3T,https://www.flipkart.com/
+MacBook Air M1,Programming,89900,8GB,256GB SSD,https://m.media-amazon.com/images/I/71jG+e7roXL._SX679_.jpg,https://www.amazon.in/dp/B08N5W4NNB,https://www.flipkart.com/
