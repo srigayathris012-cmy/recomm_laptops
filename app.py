@@ -6,7 +6,7 @@ st.set_page_config(page_title="Laptop Recommendation", layout="wide")
 
 # ---------------- LOAD DATA ----------------
 users = pd.read_csv("users.csv")
-df = pd.read_csv("laptops.csv")
+df = pd.read_csv("scrape_laptops.csv")
 
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
